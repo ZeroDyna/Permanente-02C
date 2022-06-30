@@ -8,13 +8,13 @@ Pantalla-py es la interfaz que he diseñado para el proyecto
 ## Intruvcciones de ejecucionn 
 1.Para comenzar el ususario debera de ingresar
     
-    ```
-    >>> pantalla.py
-    ```
+     ```
+     >>> pantalla.py
+     ```
     
-    ```
-    >>> factorizar2.py
-    ```
+     ```
+     >>> Factorizador2.py
+     ```
     
 2.El programa pantalla.py mostrara una interfaz muy similar a una calculadora
     
